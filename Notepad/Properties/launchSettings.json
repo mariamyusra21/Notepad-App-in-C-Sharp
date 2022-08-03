@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Notepad": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
